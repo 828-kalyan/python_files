@@ -1,0 +1,8 @@
+Woops! I have deleted the content!
+This is a new line.
+            File handling in Python is an essential skill for reading, 
+            writing, and managing files. 
+            Here's a comprehensive guide to file handling, 
+            starting from the basics and moving to advanced concepts, along with example problems.
+            I am learning file handling
+            
